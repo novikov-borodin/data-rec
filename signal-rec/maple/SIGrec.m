@@ -1,0 +1,13 @@
+M7R0
+I$REC=6"%&falseGE\[l$%$DSRGf*6&'%"wG%'VectorG'%#wcGF,'%#vcGF,%"sG6&%"nG%"SG%"UG
+%#UUG6"F$C'>8$-%$maxG6%-I*DimensionG6$I(:-30463GQJC:\Program~Files\Maple~2017\l
+ib\maple.mlaF$/%+modulenameGI.LinearAlgebraG6$%*protectedG%(_syslibG6#9$-F?6#9%
+-F?6#9&>8%*&9'"""-%'MatrixG6$F:/%&shapeG%)identityGFU>8&-FW6%F:F:f*6$%"iG%"jGF$
+6$%)operatorG%&arrowGF$-%*piecewiseG6%31""!,&FJFUFM!""1Fgo,&-F?6#T$FUFhoFU&F]p6
+#,(FJFUFMFhoFUFUFfoF$F$6$F.FM>8',&-I0delayDotProductG6$FG/FDI,TypesettingG6$FGF
+H6$)Fgn%#%TGFgnFUFRFU-Ffp6$-Ffp6$*$FcpFhoF\q-%%CONVG6%FJFPF:F$F$F$Fdqf*6%'%"uGF
+,'%"vGF,F36&%"kG%"mG%"NGF+6"F$C&>F:FK>FRF>@%1FPFfo>Fgn,(FRFUF:FUFhoFU>FgnFP-F,6
+$Fgnf*6#F\oF$6$F_oF`oF$-%$addG6$*&&T&6#F]oFU&F]p6#,(FJFUF]oFhoFUFUFU/F]o;-F<6$F
+U,(FJFUT)FhoFUFU-%$minG6%FJT'T+F$F$6,FiqFJF[rFMF]rF:F^rFRF_rFgnF$F$F$%#VNGf*6%%
+"VGF3F_rF$6"F$-F,6$,(FPFUFMFhoFUFUf*F\sF$6$F_oF`oF$-Fbo6%31Ffo,(FJFUFcsFU!"#FU1
+,(FJFUFcsFUFhoFUF[p&F]p6#FeuFfoF$F$6&FgtFJF3FMF$F$F$F$
