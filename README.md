@@ -1,5 +1,7 @@
 # data-rec
-recovery of 1D signals and 2D grey and color jpg images
+recovery of 1D signals and 2D grey and color jpg images 
+
+Novikov-Borodin A.V. Mathematical Restoration of Signals and Images Using Test Trials: A Non-Blind Approach. - Computational Mathematics and Mathematical Physics, 2025, Vol. 65, No. 3, pp. 649–661. doi: 10.1134/S0965542524702105. 
 
 for signal recovery: 
   1. upload files with directories from the signal-rec directory; 
