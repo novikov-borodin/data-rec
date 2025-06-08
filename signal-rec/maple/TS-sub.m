@@ -1,0 +1,12 @@
+M7R0
+I#TS=6"%&falseGE\[l$%#VNGf*6%%"VG%"nG%"NGF$6"F$-%'VectorG6$,(9&"""9%!""F3F3f*6#
+%"iGF$6$%)operatorG%&arrowGF$-%*piecewiseG6%31""!,(9$F3T&F3!"#F31,(FCF3FDF3F5F3
+-%)numelemsG6#T$&FK6#FGFAF$F$6&F*FCF+F4F$F$F$%$TSRGf*6&%"wG%#wcG%#vcG%"sG6&F+%"
+SG%"UG%#UUG6"F$C'>8$-%$maxG6%-FI6#FC-FI6#F4-FI6#F2>8%*&9'F3-%'MatrixG6$Fgn/%&sh
+apeG%)identityGF3>8&-Ffo6%FgnFgnf*6$F8%"jGF$6$F:F;F$-F=6%31FA,&FCF3F4F51Fgp,&FH
+F3F5F3&FK6#,(FCF3F4F5F3F3FAF$F$6$FSF4>8',&-I0delayDotProductG6$%*protectedG/%+m
+odulenameGI,TypesettingG6$Fdq%(_syslibG6$)F\p%#%TGF\pF3FboF3-Fbq6$-Fbq6$*$F_qF5
+F[r-%%CONVG6%FCF2FgnF$F$F$Fcrf*6%%"uG%"vGF+6&%"kG%"mGF,FR6"F$C&>FgnF]o>FboF[o@%
+1F2FA>F\p,(FboF3FgnF3F5F3>F\pF2-F/6$F\pf*F7F$6$F:F;F$-%$addG6$*&&FD6#FapF3&FK6#
+,(FCF3FapF5F3F3F3/Fap;-Fin6$F3,(FCF3T)F5F3F3-%$minG6%FCT'T+F$F$6,FgrFCFhrF4FjrF
+gnF[sFboF,F\pF$F$F$F$

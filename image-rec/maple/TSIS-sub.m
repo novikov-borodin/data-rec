@@ -1,0 +1,14 @@
+M7R0
+I%TSIS=6"%&falseGE\[l$%$IFTGf*6#%#WSGF$6$%)operatorG%&arrowGF$-&%3DiscreteTrans
+formsG6#%8InverseFourierTransformG6#9$F$F$F$F"f*6&%"wG%#wcG%#vcG%"sG6/%"nG%#nwG
+%#nvG%#nyG%#nxG%"WGF*%#WcG%$WScG%#VcG%$VScG%#VSG%#VrG6"F$C0>8$-I*DimensionG6$I(
+:-30463GQJC:\Program~Files\Maple~2017\lib\maple.mlaF$/%+modulenameGI.LinearAlge
+braG6$%*protectedG%(_syslibGF3>8%-FM6#9%>8&-FM6#9&>8'-%$maxG6%&FK6#"""&FgnFao&F
+XFao>8(-F^o6%&FK6#""#&FgnFjo&FXFjo>8)-%'MatrixG6%F\oFfof*6$%"iG%"jGF$6$F,F-F$-%
+*piecewiseG6%31F4&T%Fao1Fen&F^qFjo&T$6$F4Fen$""!FeqF$F$6&F7F4F<FK>8*-%#FTG6#F_p
+>8+-Fap6%F\oFfof*FdpF$6$F,F-F$FhpF$F$6&F8FenF=FX>8,-Fjq6#F]r>8--Fap6%F\oFfof*Fd
+pF$6$F,F-F$FhpF$F$6&F9FjnF>Fgn>8.-Fjq6#Fhr>8/-Fap6&F\oFfof*FdpF$6$F,F-F$**-%*co
+njugateG6#&T'FcqFbo&T)FcqFbo&F^qFcqFbo,&*$-%$absGF[tF[pFboFbqFbo!""F$F$6*F:9'F*
+FhqFCFdrFEF_s/%)datatypeG&%(complexG6#"")>80-%#ReG6#-F'6#FcsO-Fap6&,(F`oFboFdoF
+etFcoFbo,(FioFboF]pFetF\pFbof*FdpF$6$F,F-F$-T#FcqF$F$6$FGF_u/Fit%&floatGF$F$F$F
+jqf*6#FAF$6$F,F-F$-&F06#%1FourierTransformGF3F$F$F$F$
