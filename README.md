@@ -1,5 +1,5 @@
 # data-rec
-LS-system data recovery with the test signal method
+LI-system data recovery with the test signal method
 
 recovery of 1D signals and 2D grey and color jpg images
 
@@ -9,7 +9,7 @@ recovery of 1D signals and 2D grey and color jpg images
 for signal recovery:
 
 upload files with directories from the signal-rec directory;
-run ts-rec.mw (Maple 2017 or higher);
+run TTR.mw (Maple 2017 or higher);
 or run CDEL-TG+n.cir and CDEL-Test+n.cir (Micro-Cap 12 or higher) to change initial data in DATA-n.xlsx.
 for image recovery:
 
