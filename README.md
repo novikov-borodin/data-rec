@@ -3,7 +3,8 @@ LS-system data recovery with the test signal method
 
 recovery of 1D signals and 2D grey and color jpg images
 
-Novikov-Borodin A.V. Mathematical Restoration of Signals and Images Using Test Trials: A Non-Blind Approach. - Computational Mathematics and Mathematical Physics, 2025, Vol. 65, No. 3, pp. 649–661. doi: 10.1134/S0965542524702105.
+1. Novikov-Borodin A.V. Mathematical Restoration of Signals and Images Using Test Trials: A Non-Blind Approach. - Computational Mathematics and Mathematical Physics, 2025, Vol. 65, No. 3, pp. 649–661. doi: 10.1134/S0965542524702105.
+2. Novikov-Borodin A.V. Using Test Trials of Processing Systems for Non-Blind Recovery of Signals and Images. - Journal of Data Science and Intelligent Systems, Sept. 2025. doi: 10.47852/bonviewJDSIS52024990.
 
 for signal recovery:
 
