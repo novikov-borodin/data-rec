@@ -9,8 +9,9 @@ recovery of 1D signals and 2D grey and color jpg images
 for signal recovery:
 
 upload files with directories from the signal-rec directory;
-run TTR.mw (Maple 2017 or higher);
-or run CDEL-TG+n.cir and CDEL-Test+n.cir (Micro-Cap 12 or higher) to change initial data in DATA-n.xlsx.
+run TTR.mw for recovery in spartial domain or TTF.mw for recovery in spectral domain in Maple 2017 or higher;
+or run CDEL-TG+n.cir and CDEL-Test+n.cir in Micro-Cap 12 or higher to change initial data in DATA-n.xlsx.
+
 for image recovery:
 
 upload files with directories from the image-rec directory;
