@@ -15,5 +15,5 @@ or run CDEL-TG+n.cir and CDEL-Test+n.cir in Micro-Cap 12 or higher to change ini
 for image recovery:
 
 upload files with directories from the image-rec directory;
-run ts-img-gr.mw (Maple 2017 or higher) for grey jpg image recovery;
-or run ts-img-clr.mw (Maple 2017 or higher) for color jpg image recovery.
+run TTI-gr.mw (Maple 2017 or higher) for grey jpg image recovery;
+or run TTI-clr.mw (Maple 2017 or higher) for color jpg image recovery.
