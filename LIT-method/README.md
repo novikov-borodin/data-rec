@@ -1,4 +1,4 @@
-LIT-method
+# LIT-method
 
 LI-system data recovery using the Linear Invariant Transform (LIT) method:
 
