@@ -1,4 +1,4 @@
-DT-method
+# DT-method
 
 LI-system data recovery using the Double Transform (DT) method:
 
